@@ -11,4 +11,4 @@
 
 [國立高雄第一科大](http://www.nkfust.edu.tw/bin/home.php)
 
-:pig: :panda_face: :rabbot:
+:pig: :panda_face: :rabbit:
